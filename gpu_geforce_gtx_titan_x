@@ -1,0 +1,513 @@
+cudaHashcat v1.36 starting in benchmark-mode...
+
+Device #1: GeForce GTX TITAN X, 12287MB, 1215Mhz, 24MCU
+
+Hashtype: MD4
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.: 35227.1 MH/s
+
+Hashtype: MD5
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.: 16904.6 MH/s
+
+Hashtype: SHA1
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  5301.7 MH/s
+
+Hashtype: SHA256
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  2113.0 MH/s
+
+Hashtype: SHA384
+Workload: 256 loops, 256 accel
+
+Speed.GPU.#1.:   663.0 MH/s
+
+Hashtype: SHA512
+Workload: 256 loops, 256 accel
+
+Speed.GPU.#1.:   655.6 MH/s
+
+Hashtype: SHA-3(Keccak)
+Workload: 128 loops, 256 accel
+
+Speed.GPU.#1.:   471.7 MH/s
+
+Hashtype: RipeMD160
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  3546.1 MH/s
+
+Hashtype: Whirlpool
+Workload: 512 loops, 32 accel
+
+Speed.GPU.#1.:   140.3 MH/s
+
+Hashtype: GOST R 34.11-94
+Workload: 512 loops, 64 accel
+
+Speed.GPU.#1.:   197.8 MH/s
+
+Hashtype: SAP CODVN B (BCODE)
+Workload: 1024 loops, 64 accel
+
+Speed.GPU.#1.:  1264.9 MH/s
+
+Hashtype: SAP CODVN F/G (PASSCODE)
+Workload: 1024 loops, 32 accel
+
+Speed.GPU.#1.:   623.8 MH/s
+
+Hashtype: SAP CODVN H (PWDSALTEDHASH) iSSHA-1
+Workload: 1024 loops, 16 accel
+
+Speed.GPU.#1.:  4078.9 kH/s
+
+Hashtype: Lotus Notes/Domino 5
+Workload: 256 loops, 32 accel
+
+Speed.GPU.#1.:   177.1 MH/s
+
+Hashtype: Lotus Notes/Domino 6
+Workload: 256 loops, 32 accel
+
+Speed.GPU.#1.: 57800.4 kH/s
+
+Hashtype: Lotus Notes/Domino 8
+Workload: 1024 loops, 64 accel
+
+Speed.GPU.#1.:   459.7 kH/s
+
+Hashtype: SHA-1(Base64), nsldap, Netscape LDAP SHA
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  5306.9 MH/s
+
+Hashtype: SSHA-1(Base64), nsldaps, Netscape LDAP SSHA
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  5285.0 MH/s
+
+Hashtype: descrypt, DES(Unix), Traditional DES
+Workload: 128 loops, 64 accel
+
+Speed.GPU.#1.:   143.7 MH/s
+
+Hashtype: md5crypt, MD5(Unix), FreeBSD MD5, Cisco-IOS MD5
+Workload: 1000 loops, 32 accel
+
+Speed.GPU.#1.:  7110.1 kH/s
+
+Hashtype: sha256crypt, SHA256(Unix)
+Workload: 1024 loops, 4 accel
+
+Speed.GPU.#1.:   310.2 kH/s
+
+Hashtype: sha512crypt, SHA512(Unix)
+Workload: 1024 loops, 8 accel
+
+Speed.GPU.#1.:   112.5 kH/s
+
+Hashtype: bcrypt, Blowfish(OpenBSD)
+Workload: 32 loops, 2 accel
+
+Speed.GPU.#1.:    14440 H/s
+
+Hashtype: LM
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  2145.2 MH/s
+
+Hashtype: NTLM
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.: 34969.3 MH/s
+
+Hashtype: DCC, mscash
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  9440.8 MH/s
+
+Hashtype: NetNTLMv1-VANILLA / NetNTLMv1+ESS
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.: 14208.6 MH/s
+
+Hashtype: NetNTLMv2
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  1098.4 MH/s
+
+Hashtype: Kerberos 5 AS-REQ Pre-Auth etype 23
+Workload: 256 loops, 32 accel
+
+Speed.GPU.#1.:   183.6 MH/s
+
+Hashtype: EPiServer 6.x < v4
+Workload: 512 loops, 256 accel
+
+Speed.GPU.#1.:  3843.6 MH/s
+
+Hashtype: EPiServer 6.x > v4
+Workload: 512 loops, 256 accel
+
+Speed.GPU.#1.:  1936.7 MH/s
+
+Hashtype: MSSQL(2000)
+Workload: 512 loops, 256 accel
+
+Speed.GPU.#1.:  5380.4 MH/s
+
+Hashtype: MSSQL(2005)
+Workload: 512 loops, 256 accel
+
+Speed.GPU.#1.:  5414.1 MH/s
+
+Hashtype: MSSQL(2012)
+Workload: 256 loops, 256 accel
+
+Speed.GPU.#1.:   672.0 MH/s
+
+Hashtype: MySQL323
+Workload: 512 loops, 256 accel
+
+Speed.GPU.#1.: 37121.9 MH/s
+
+Hashtype: MySQL4.1/MySQL5
+Workload: 512 loops, 256 accel
+
+Speed.GPU.#1.:  2471.1 MH/s
+
+Hashtype: Oracle 7-10g
+Workload: 512 loops, 64 accel
+
+Speed.GPU.#1.:   603.8 MH/s
+
+Hashtype: Sybase ASE
+Workload: 512 loops, 32 accel
+
+Speed.GPU.#1.:   192.3 MH/s
+
+Hashtype: Oracle 11g/12c
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  5308.7 MH/s
+
+Hashtype: PostgreSQL Challenge-Response Authentication (MD5)
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  4180.2 MH/s
+
+Hashtype: MySQL Challenge-Response Authentication (SHA1)
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  1570.2 MH/s
+
+Hashtype: OSX v10.4, v10.5, v10.6
+Workload: 512 loops, 256 accel
+
+Speed.GPU.#1.:  3845.7 MH/s
+
+Hashtype: OSX v10.7
+Workload: 128 loops, 256 accel
+
+Speed.GPU.#1.:   657.4 MH/s
+
+Hashtype: OSX v10.8+
+Workload: 1024 loops, 2 accel
+
+Speed.GPU.#1.:     8160 H/s
+
+Hashtype: Android PIN
+Workload: 1024 loops, 16 accel
+
+Speed.GPU.#1.:  4055.7 kH/s
+
+Hashtype: Android FDE <= 4.3
+Workload: 1024 loops, 32 accel
+
+Speed.GPU.#1.:   566.2 kH/s
+
+Hashtype: scrypt
+Workload: 1 loops, 64 accel
+
+Speed.GPU.#1.:   130.8 kH/s
+
+Hashtype: Cisco-PIX MD5
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.: 10657.2 MH/s
+
+Hashtype: Cisco-ASA MD5
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.: 10988.6 MH/s
+
+Hashtype: Cisco-IOS SHA256
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  2108.0 MH/s
+
+Hashtype: Cisco $8$
+Workload: 1024 loops, 8 accel
+
+Speed.GPU.#1.:    46826 H/s
+
+Hashtype: Cisco $9$
+Workload: 1 loops, 4 accel
+
+Speed.GPU.#1.:     4788 H/s
+
+Hashtype: Juniper IVE
+Workload: 1000 loops, 32 accel
+
+Speed.GPU.#1.:  7173.9 kH/s
+
+Hashtype: Citrix NetScaler
+Workload: 512 loops, 256 accel
+
+Speed.GPU.#1.:  4849.4 MH/s
+
+Hashtype: DNSSEC (NSEC3)
+Workload: 512 loops, 256 accel
+
+Speed.GPU.#1.:  2301.8 MH/s
+
+Hashtype: WPA/WPA2
+Workload: 1024 loops, 32 accel
+
+Speed.GPU.#1.:   279.2 kH/s
+
+Hashtype: IKE-PSK MD5
+Workload: 512 loops, 128 accel
+
+Speed.GPU.#1.:  1198.4 MH/s
+
+Hashtype: IKE-PSK SHA1
+Workload: 512 loops, 128 accel
+
+Speed.GPU.#1.:   395.3 MH/s
+
+Hashtype: Password Safe v2
+Workload: 1000 loops, 16 accel
+
+Speed.GPU.#1.:   205.2 kH/s
+
+Hashtype: Password Safe v3
+Workload: 1024 loops, 16 accel
+
+Speed.GPU.#1.:   923.8 kH/s
+
+Hashtype: 1Password, agilekeychain
+Workload: 1000 loops, 64 accel
+
+Speed.GPU.#1.:  2263.5 kH/s
+
+Hashtype: 1Password, cloudkeychain
+Workload: 1024 loops, 2 accel
+
+Speed.GPU.#1.:     7104 H/s
+
+Hashtype: AIX {ssha1}
+Workload: 64 loops, 128 accel
+
+Speed.GPU.#1.: 28144.4 kH/s
+
+Hashtype: TrueCrypt 5.0+ PBKDF2-HMAC-RipeMD160 + AES
+Workload: 1024 loops, 64 accel
+
+Speed.GPU.#1.:   820.9 kH/s
+
+Hashtype: TrueCrypt 5.0+ PBKDF2-HMAC-SHA512 + AES
+Workload: 1000 loops, 16 accel
+
+Speed.GPU.#1.:   295.4 kH/s
+
+Hashtype: TrueCrypt 5.0+ PBKDF2-HMAC-Whirlpool + AES
+Workload: 1000 loops, 8 accel
+
+Speed.GPU.#1.:    30266 H/s
+
+Hashtype: TrueCrypt 5.0+ PBKDF2-HMAC-RipeMD160 + AES + boot-mode
+Workload: 1000 loops, 64 accel
+
+Speed.GPU.#1.:  1636.9 kH/s
+
+Hashtype: Office 2007
+Workload: 1024 loops, 32 accel
+
+Speed.GPU.#1.:    93823 H/s
+
+Hashtype: Office 2010
+Workload: 1024 loops, 32 accel
+
+Speed.GPU.#1.:    46940 H/s
+
+Hashtype: Office 2013
+Workload: 1024 loops, 4 accel
+
+Speed.GPU.#1.:     6816 H/s
+
+Hashtype: MS Office <= 2003 MD5 + RC4, oldoffice$0, oldoffice$1
+Workload: 1024 loops, 32 accel
+
+Speed.GPU.#1.:   168.5 MH/s
+
+Hashtype: MS Office <= 2003 SHA1 + RC4, oldoffice$3, oldoffice$4
+Workload: 1024 loops, 32 accel
+
+Speed.GPU.#1.:   236.2 MH/s
+
+Hashtype: PDF 1.1 - 1.3 (Acrobat 2 - 4)
+Workload: 1024 loops, 32 accel
+
+Speed.GPU.#1.:   258.4 MH/s
+
+Hashtype: PDF 1.1 - 1.3 (Acrobat 2 - 4) + collider-mode #1
+Workload: 1024 loops, 32 accel
+
+Speed.GPU.#1.:   292.1 MH/s
+
+Hashtype: PDF 1.1 - 1.3 (Acrobat 2 - 4) + collider-mode #2
+Workload: 1024 loops, 32 accel
+
+Speed.GPU.#1.:  2702.9 MH/s
+
+Hashtype: PDF 1.4 - 1.6 (Acrobat 5 - 8)
+Workload: 70 loops, 256 accel
+
+Speed.GPU.#1.: 12333.1 kH/s
+
+Hashtype: PDF 1.7 Level 3 (Acrobat 9)
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  2107.8 MH/s
+
+Hashtype: PDF 1.7 Level 8 (Acrobat 10 - 11)
+Workload: 64 loops, 8 accel
+
+Speed.GPU.#1.:        0 H/s
+
+Hashtype: Drupal7
+Workload: 1024 loops, 8 accel
+
+Speed.GPU.#1.:    41049 H/s
+
+Hashtype: HMAC-MD5 (key = $pass)
+Workload: 512 loops, 256 accel
+
+Speed.GPU.#1.:  1669.0 MH/s
+
+Hashtype: HMAC-MD5 (key = $salt)
+Workload: 512 loops, 256 accel
+
+Speed.GPU.#1.:  4622.7 MH/s
+
+Hashtype: HMAC-SHA1 (key = $pass)
+Workload: 256 loops, 256 accel
+
+Speed.GPU.#1.:   362.5 MH/s
+
+Hashtype: HMAC-SHA1 (key = $salt)
+Workload: 256 loops, 256 accel
+
+Speed.GPU.#1.:   542.7 MH/s
+
+Hashtype: HMAC-SHA256 (key = $pass)
+Workload: 128 loops, 128 accel
+
+Speed.GPU.#1.:   402.7 MH/s
+
+Hashtype: HMAC-SHA256 (key = $salt)
+Workload: 128 loops, 128 accel
+
+Speed.GPU.#1.:   908.2 MH/s
+
+Hashtype: HMAC-SHA512 (key = $pass)
+Workload: 128 loops, 128 accel
+
+Speed.GPU.#1.: 88728.4 kH/s
+
+Hashtype: HMAC-SHA512 (key = $salt)
+Workload: 128 loops, 128 accel
+
+Speed.GPU.#1.:   208.8 MH/s
+
+Hashtype: IPMI2 RAKP HMAC-SHA1
+Workload: 256 loops, 256 accel
+
+Speed.GPU.#1.:  1107.5 MH/s
+
+Hashtype: Half MD5
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.: 10448.1 MH/s
+
+Hashtype: Double MD5
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  4662.2 MH/s
+
+Hashtype: GRUB 2
+Workload: 1024 loops, 2 accel
+
+Speed.GPU.#1.:    29060 H/s
+
+Hashtype: phpass, MD5(Wordpress), MD5(phpBB3), MD5(Joomla)
+Workload: 1024 loops, 32 accel
+
+Speed.GPU.#1.:  4555.8 kH/s
+
+Hashtype: SIP digest authentication (MD5)
+Workload: 1024 loops, 32 accel
+
+Speed.GPU.#1.:  1895.7 MH/s
+
+Hashtype: SipHash
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.: 20456.9 MH/s
+
+Hashtype: Joomla < 2.5.18
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.: 16680.3 MH/s
+
+Hashtype: osCommerce, xt:Commerce
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  9093.2 MH/s
+
+Hashtype: PrestaShop
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  5751.4 MH/s
+
+Hashtype: IPB2+, MyBB1.2+
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  2135.8 MH/s
+
+Hashtype: vBulletin < v3.8.5
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  4695.6 MH/s
+
+Hashtype: PHPS
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  4654.3 MH/s
+
+Hashtype: vBulletin > v3.8.5
+Workload: 1024 loops, 256 accel
+
+Speed.GPU.#1.:  2091.6 MH/s
+
+Hashtype: SMF > v1.1
+Workload: 512 loops, 256 accel
+
+Speed.GPU.#1.:  3849.6 MH/s
