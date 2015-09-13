@@ -1,0 +1,194 @@
+Initializing hashcat v0.50 with 8 threads and 32mb segment-size...
+
+Device...........: Intel(R) Core(TM) i7 CPU         930  @ 2.80GHz
+Instruction set..: x86_64
+Number of threads: 8
+
+Hash type: MD4
+Speed/sec: 69.53M words
+
+Hash type: MD5
+Speed/sec: 55.86M words
+
+Hash type: SHA1
+Speed/sec: 31.33M words
+
+Hash type: SHA256
+Speed/sec: 16.32M words
+
+Hash type: SHA512
+Speed/sec: 6.19M words
+
+Hash type: SHA-3(Keccak)
+Speed/sec: 2.83M words
+
+Hash type: GOST R 34.11-94
+Speed/sec: 2.73M words
+
+Hash type: SHA-1(Base64), nsldap, Netscape LDAP SHA
+Speed/sec: 32.45M words
+
+Hash type: SSHA-1(Base64), nsldaps, Netscape LDAP SSHA
+Speed/sec: 31.81M words
+
+Hash type: md5crypt, MD5(Unix), FreeBSD MD5, Cisco-IOS MD5
+Speed/sec: 54.68k words
+
+Hash type: sha256crypt, SHA256(Unix)
+Speed/sec: 1.72k words
+
+Hash type: sha512crypt, SHA512(Unix)
+Speed/sec: 1.09k words
+
+Hash type: bcrypt, Blowfish(OpenBSD)
+Speed/sec: 4.12k words
+
+Hash type: NTLM
+Speed/sec: 61.41M words
+
+Hash type: DCC, mscash
+Speed/sec: 33.50M words
+
+Hash type: NetNTLMv1-VANILLA / NetNTLMv1+ESS
+Speed/sec: 58.38M words
+
+Hash type: NetNTLMv2
+Speed/sec: 11.05M words
+
+Hash type: EPiServer 6.x < v4
+Speed/sec: 29.90M words
+
+Hash type: EPiServer 6.x > v4
+Speed/sec: 16.52M words
+
+Hash type: MSSQL(2000)
+Speed/sec: 25.36M words
+
+Hash type: MSSQL(2005)
+Speed/sec: 30.82M words
+
+Hash type: MSSQL(2012)
+Speed/sec: 6.68M words
+
+Hash type: MySQL323
+Speed/sec: 125.33M words
+
+Hash type: MySQL4.1/MySQL5
+Speed/sec: 20.59M words
+
+Hash type: Oracle S: Type (Oracle 11+)
+Speed/sec: 33.58M words
+
+Hash type: PostgreSQL Challenge-Response Authentication (MD5)
+Speed/sec: 22.28M words
+
+Hash type: MySQL Challenge-Response Authentication (SHA1)
+Speed/sec: 11.67M words
+
+Hash type: OSX v10.4, v10.5, v10.6
+Speed/sec: 29.89M words
+
+Hash type: OSX v10.7
+Speed/sec: 5.90M words
+
+Hash type: OSX v10.8+
+Speed/sec: 101 words
+
+Hash type: Android PIN
+Speed/sec: 31.60k words
+
+Hash type: scrypt
+Speed/sec: 108 words
+
+Hash type: Cisco-PIX MD5
+Speed/sec: 54.66M words
+
+Hash type: Cisco-ASA MD5
+Speed/sec: 52.84M words
+
+Hash type: Cisco-IOS SHA256
+Speed/sec: 18.95M words
+
+Hash type: Cisco $9$
+Speed/sec: 879 words
+
+Hash type: WPA/WPA2
+Speed/sec: 3.11k words
+
+Hash type: IKE-PSK MD5
+Speed/sec: 12.07M words
+
+Hash type: IKE-PSK SHA1
+Speed/sec: 5.94M words
+
+Hash type: Password Safe v3
+Speed/sec: 10.32k words
+
+Hash type: AIX {ssha1}
+Speed/sec: 397.09k words
+
+Hash type: Radmin2
+Speed/sec: 28.96M words
+
+Hash type: HMAC-MD5 (key = $pass)
+Speed/sec: 21.13M words
+
+Hash type: HMAC-MD5 (key = $salt)
+Speed/sec: 34.78M words
+
+Hash type: HMAC-SHA1 (key = $pass)
+Speed/sec: 11.60M words
+
+Hash type: HMAC-SHA1 (key = $salt)
+Speed/sec: 18.57M words
+
+Hash type: HMAC-SHA256 (key = $pass)
+Speed/sec: 5.30M words
+
+Hash type: HMAC-SHA256 (key = $salt)
+Speed/sec: 10.15M words
+
+Hash type: HMAC-SHA512 (key = $pass)
+Speed/sec: 1.87M words
+
+Hash type: HMAC-SHA512 (key = $salt)
+Speed/sec: 3.68M words
+
+Hash type: IPMI2 RAKP HMAC-SHA1
+Speed/sec: 12.28M words
+
+Hash type: Half MD5
+Speed/sec: 47.93M words
+
+Hash type: Double MD5
+Speed/sec: 25.27M words
+
+Hash type: GRUB 2
+Speed/sec: 362 words
+
+Hash type: phpass, MD5(Wordpress), MD5(phpBB3), MD5(Joomla)
+Speed/sec: 43.73k words
+
+Hash type: SIP digest authentication (MD5)
+Speed/sec: 22.55M words
+
+Hash type: Joomla < 2.5.18
+Speed/sec: 50.60M words
+
+Hash type: osCommerce, xt:Commerce
+Speed/sec: 50.60M words
+
+Hash type: PrestaShop
+Speed/sec: 46.82M words
+
+Hash type: IPB2+, MyBB1.2+
+Speed/sec: 24.22M words
+
+Hash type: vBulletin < v3.8.5
+Speed/sec: 25.55M words
+
+Hash type: SMF > v1.1
+Speed/sec: 33.78M words
+
+Hash type: MD5
+Speed/sec: 60.28M words
